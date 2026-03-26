@@ -1,5 +1,5 @@
-# 🌺 Salute to James Gosling ,Father of Java 🙏👑🔥
-# 🌺 BhaktiApp – A Java Console-Based Spiritual Playlist
+🌺 Salute to James Gosling ,Father of Java 🙏👑🔥
+🌺 BhaktiApp – A Java Console-Based Spiritual Playlist
 
 🙏 Welcome to **BhaktiApp**, a Java-based console application that brings peace, devotion, and powerful mantras to your fingertips.
 
@@ -31,5 +31,4 @@ Each choice offers a beautiful mantra and a YouTube link for listening — creat
 ---
 
 ## Spiritual Note
-This project is a heartfelt offering to Lord Ganesha, Lord Shiva, Lord Krishna, Surya Devata and the divine energy that guides every soul.
-May your journey through BhaktiApp bring calm, clarity, and connection.
+This project is a heartfelt offering to Lord Ganesha, Lord Shiva, Lord Krishna, Surya Devata and the divine energy that guides every soul.May your journey through BhaktiApp bring calm, clarity, and connection.
